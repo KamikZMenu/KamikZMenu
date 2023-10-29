@@ -1,12 +1,12 @@
 ![KamikZMenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamikZMenu&show_icons=true&theme=dark)
 ## Meu Trabalho
-|  Ocupações |                                 Trabalhando |
-| :---------------------------------------------: | :-----------: |
-| Vice Online Moderator|Sim|
-| Discord Bot Developer|Sim|
-| WhatsApp Bot Developer|Sim|
-| Telegram Bot Developer|Sim|
-| Android Application Developer|Sim|
+|  Ocupações |                                 Trabalhando | Status
+| :---------------------------------------------: | :-----------: | :-----: |
+| Vice Online Moderator|Sim|☑|
+| Discord Bot Developer|Sim|☑|
+| WhatsApp Bot Developer|Sim|☑|
+| Telegram Bot Developer|Sim|☑|
+| Android Application Developer|Não|❌|
 # Linguagens/Ferramentas que eu uso com frequencia:
 ![github](https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) ![node.js](https://camo.githubusercontent.com/0fad77ddd85292b8800107c5a51df2f64ff5126a0fe6dfa1eb7d4977032918e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652532306a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465) ![javascript](https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145) ![lua](https://camo.githubusercontent.com/7d29a31488409b4bb55a4388db2d18808cb7d8b0bd8b4c1d54145001e58b376a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c75612d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465) ![xda](https://camo.githubusercontent.com/fdc961e5f30b81ad76a804f1c46e7e9f41f66401714780d772fd84be9a47d6a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f786461253230646576656c6f706572732d3244414145393f7374796c653d666f722d7468652d6261646765266c6f676f3d7864612d646576656c6f70657273266c6f676f436f6c6f723d7768697465)
 
