@@ -1,9 +1,9 @@
 ## Meu Trabalho
 |  Ocupações |                                 Trabalhando | Status
 | :---------------------------------------------: | :-----------: | :-----: |
-| Vice Online Moderator|Sim|☑|
+| Criação e Gestão de Comunidades Discord|Sim|☑|
 | Discord Bot Developer|Sim|☑|
-| WhatsApp Bot Developer|Sim|☑|
+| WhatsApp Bot Developer|Não|❌|
 | Telegram Bot Developer|Sim|☑|
 | Android Application Developer|Não|❌|
 
